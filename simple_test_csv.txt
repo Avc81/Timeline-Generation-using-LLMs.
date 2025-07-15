@@ -1,0 +1,14 @@
+date,title,description,importance,subjects
+1969-07-20,Moon Landing,Apollo 11 lands on moon,5,Space
+1957-10-04,Sputnik Launch,First satellite launched,5,Space
+1961-04-12,Gagarin Flight,First human in space,5,Space
+1989-11-09,Berlin Wall Falls,End of Cold War symbol,4,Politics
+1991-12-25,Soviet Union Ends,USSR dissolves,5,Politics
+2001-09-11,9/11 Attacks,Terrorist attacks in USA,5,Security
+1947-12-23,Transistor Invented,Modern electronics begin,5,Technology
+1976-04-01,Apple Founded,Computer company starts,4,Technology
+1981-08-12,IBM PC Released,Personal computer standard,4,Technology
+1989-03-12,World Wide Web,Internet system proposed,5,Technology
+1997-05-11,Deep Blue Wins,AI beats chess champion,4,AI
+2007-01-09,iPhone Announced,Smartphone revolution,5,Technology
+2022-11-30,ChatGPT Launch,AI chatbot released,5,AI
